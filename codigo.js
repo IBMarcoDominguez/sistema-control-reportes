@@ -1,5 +1,5 @@
 // CONFIGURACIÓN GLOBAL: Tu carpeta manual de Google Drive
-var ID_CARPETA_DESTINO = "1ktWM3fsB0PWG2kd6kSVc9d7mX4ZY8H9F";
+var ID_CARPETA_DESTINO = "Haz una carpeta en tu google drive y pega el codigo de la ruta posterior a folder/";
 
 function doPost(e) {
   var hoja = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
